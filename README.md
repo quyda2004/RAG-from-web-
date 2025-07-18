@@ -1,5 +1,5 @@
 #  AI Chatbot – Data Extraction & Gemini Answering 
-
+## Giới thiệu: dữ liệu sẽ được lấy từ trang web [https://www.presight.io/privacy-policy.html](tại đây) từ dữ liệu trang web ta sẽ dựa vào đó cho Gemini Answering 
 ##  Tổng quan
 Dự án xây dựng một **Chatbot kết hợp 2 mô hình AI**:
 - **SentenceTransformer (all-mpnet-base-v2)**: trích xuất embedding và tìm kiếm ngữ nghĩa.
